@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="inetbanking">
+
+<test name="Login test">
+
+<parameter name="browser" value="chrome" />
+
+<classes>
+
+ <class name="com.Inetbanking.testCases.TC_LoginTest_001" /> 
+<!-- <class name="com.Inetbanking.testCases.TC_LoginDDT_002" /> -->
+
+</classes>
+
+</test>
+
+</suite>
